@@ -1,0 +1,19 @@
+@font-face{
+
+	font-family: Alfa_Slab_One;
+	src:  url(../fonts/Alfa_Slab_One/Alfa_Slab_One-Bold.ttf);
+}
+
+.logo{
+	font-family: Alfa_Slab_One;
+	font-size: 5rem;
+	color:  var(--bs-indigo);
+}
+
+.carousel-caption{
+	background-color: rgba(0,0,0,0.7);
+	border-radius: 10px;
+}
+body {
+	background-color: #000;
+}
